@@ -1,0 +1,6 @@
+[miracastairplay]
+title=MiracastAirplay
+description=Miracast or Airplay Stream device
+ports=51570/udp|5353/udp|7000/udp|18000:18009/udp|7236/tcp|50000/tcp|51571/tcp|7100/tcp|18000:18009/tcp
+categories=Audio Video;TV;
+reference=[https://help.flatfrog.com/en/knowledge/screensharing]
