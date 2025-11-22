@@ -22,8 +22,8 @@ Configuration in your application menu.
 
 FOR OTHER DISTROS
 ------------------
-* Get code from https://costales.github.io/gufw
-    git clone https://costales.github.io/gufw.git
+* Clone the repository:
+    git clone https://github.com/costales/gufw.git
     
 * Install:
     cd gufw
