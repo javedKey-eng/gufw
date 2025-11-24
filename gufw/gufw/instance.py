@@ -18,6 +18,10 @@
 import os, sys
 from stat import *
 
+# GTK version requirements for static analysis
+import gi
+gi.require_version('Gtk', '3.0')
+
 class Instance:
     def __init__(self):
         self.pid_file = '/tmp/gufw.pid'

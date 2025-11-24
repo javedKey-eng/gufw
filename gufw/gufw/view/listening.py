@@ -16,8 +16,8 @@
 # information.
 
 import gi
-import re
 gi.require_version('Gtk', '3.0')
+gi.require_version('GLib', '2.0')
 from gi.repository import GLib, Gtk
 
 
